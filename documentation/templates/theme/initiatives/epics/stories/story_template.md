@@ -10,4 +10,4 @@ The learning content is only accessible to users who have logged in
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. Create cookie storage request [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
