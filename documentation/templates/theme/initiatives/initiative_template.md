@@ -1,26 +1,28 @@
-"Title of the Initiative"
+"Legal Compliance with GDPR and other standards"
 
-Description: [A brief description of the initiative]
+Description: Ensure my website complies with GDPR and other standards 
 
-Goals: [List the goals or objectives of the initiative]
+Goals: Avoid legal liability by following GDPR and other standards
 
-Scope: [Define the scope of the initiative]
+Scope: Website Wide
 
-Outcomes: [Describe the expected outcomes of the initiative]
+Outcomes: Website will pass GDPR Scanner and comply with GDPR and other standards
 
-Deliverables: [List the expected deliverables of the initiative]
+Deliverables: A website that complies with GDPR and other standards
 
-Milestones: [List the major milestones and their timelines]
+Milestones: Passing GDPR Scanner
 
-Constraints: [Identify any constraints or limitations that may impact the initiative]
+Constraints: GDPR and other standards
 
-Assumptions: [List any assumptions made about the initiative]
+Assumptions: Website will be available to the public
 
-Risks: [List the potential risks and mitigation strategies]
+Risks: Facing legal ramifications if standards are not followed
 
-Dependencies: [List any dependencies that may impact the initiative]
+Dependencies: GDPR Scanner functionality
 
-Team: [Identify the team members and their roles in the initiative]
+Team: Brandon Sibanda
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. Create functionality to store cookies [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+
+Testing: GDPR Scanner, Lighthouse, w3c Validation
