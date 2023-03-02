@@ -25,6 +25,6 @@ Team: Brandon Sibanda
 Testing: GDPR Scanner, Lighthouse, w3c Validation
 
 # List epics related to this theme
-1. Create functionality to store cookies [Epic 1](documentation/templates/theme/initiatives/documentation/templates/theme/initiatives/epics/epic_template.md)
+1. Create functionality to store cookies [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
 
 
