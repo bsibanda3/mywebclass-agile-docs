@@ -1,20 +1,20 @@
-"Title of the Epic"
+"Ensure that regulations are met"
 
-Description: [A brief description of the epic]
+Description: Create functions to ensure that website is compliant with regulations
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals: Ensure compliance with regulators like GDPR, ensure users activity is tracked using Google Analytics
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+User Stories: User ente
 
-Dependencies: [List any dependencies that may impact the epic]
+Dependencies: User input
 
-Risks: [List the potential risks and mitigation strategies]
+Risks: User denies cookie storage
 
-Estimated Effort: [Estimate the effort required to complete the epic]
+Estimated Effort: Medium
 
-Business Value: [Specify the business value that will be delivered by the epic]
+Business Value: Storing cookies on a user's machine will allow for a more fluid experience for the user
 
-Priority: [Assign a priority to the epic]
+Priority: High
 
 # List stories related to this theme
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)

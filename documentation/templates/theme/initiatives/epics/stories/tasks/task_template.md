@@ -1,15 +1,15 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Create cookie storage request
 
-User Story: [Reference the user story that this task supports]
+User Story: 
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: I need to create a cookie storage request that ask the user to store cookies on their machine in order to comply with GDPR standards
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: 1 Hour
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: Brandon Sibanda
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: High
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: Not Started
 
-Notes: [Include]
+Notes:
