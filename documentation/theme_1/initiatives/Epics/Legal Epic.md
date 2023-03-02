@@ -20,3 +20,11 @@ Estimated Effort: High, 1 Month to create and 2 weeks to test compliance
 Business Values: Ensuring compliance will prevent any legal consequences in the future from affecting business
 
 Priority: High
+
+# List stories related to this theme
+1. "As a front end developer I need to make sure all my information is accurate and not misleading." [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+2. "As a front end developer I need to make sure that user data is protected."
+3. "As a front end developer I need to make sure there is a clear terms of use agreement."
+4. "As a front end developer I need to ensure I use original content that has not been copyrighted."
+
+Testing: GDPR Scanner, Lighthouse, w3c Validation
