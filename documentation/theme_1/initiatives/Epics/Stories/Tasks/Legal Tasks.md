@@ -14,7 +14,7 @@ Status: Not Started
 
 Notes: Information will be reviewed by compliance before it is posted to production to verify content is not copyrighted.
 
-
+Testing: Compare research to it's source to ensure the information is accurate.
 
 Task: Ensure User Data is Secure
 
@@ -27,6 +27,8 @@ Priority: High
 Status: In Progress
 
 Notes: Developer should work with information security teams to ensure data is protected.
+
+Testing: Penetration and Vunerability testing, ensure functioning encryption and secure protocol usage.
 
 
 Task: Create terms of use agreement
@@ -42,8 +44,11 @@ Status: In Progress
 Notes: Developers should work with compliance to ensure proper agreement content
 
 
+Testing: Conduct activity that breaches terms of use agreement to ensure access to resources is denied 
 
-Task: 
+
+
+Task: Create original content
 
 User Story: As a front end developer I need to ensure I use original content that has not been copyrighted.
 
@@ -54,3 +59,6 @@ Priority: High
 Status: In Progress
 
 Notes: Compliance should work with developers to verify content is original.
+
+Testing: Utilize copyright office's database
+
