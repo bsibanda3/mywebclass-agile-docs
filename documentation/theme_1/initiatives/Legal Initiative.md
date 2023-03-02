@@ -32,4 +32,4 @@ Team: Brandon Sibanda
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
 
-Testing: GDPR Scanner, Lighthouse, w3c Validation,
+Testing: GDPR Scanner, Lighthouse, w3c Validation
