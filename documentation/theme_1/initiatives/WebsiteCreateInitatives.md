@@ -43,7 +43,7 @@ Back end developer
 DevOps developer
 
 # List epics related to this theme
-1. Develop SEO to help users find website [Epic 1](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/WebsiteCreateEpics1.md)
-2. Ensure Website Continuity [Epic 2](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/WebsiteCreateEpics2.md)
+1. Develop SEO to help users find website [Epic 1](Epics/WebsiteCreateEpics1.md)
+2. Ensure Website Continuity [Epic 2](Epics/WebsiteCreateEpics2.md)
 
 Testing: Playwright for end-to-end testing, Pytest to check each unit on website
