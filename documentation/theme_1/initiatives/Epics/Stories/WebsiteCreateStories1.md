@@ -8,4 +8,4 @@ The user has entered a keyword into the search bar to find the website
 Testing: Automated test with Playwright to check SEO optimization
 
 # List tasks related to this story
-1. Check relevant keywords [Story 2](documentation/theme_1/initiatives/Epics/Stories/Tasks/WebsiteCreateTasks2.md)
+1. Check relevant keywords [Task 2](Tasks/WebsiteCreateTasks2.md)
