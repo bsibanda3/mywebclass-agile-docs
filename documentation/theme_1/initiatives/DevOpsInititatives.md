@@ -28,4 +28,4 @@ Team: Front End Software developers
 Testing: Compliance department scrutinizing roadmap, developer feedback on aspects of roadmap
 
 # List tasks related to this story
-1. Create an automated process for deployment and testing processes to support CI/CD [Epic 1](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/DevOps%20Epics.md)
+1. Create an automated process for deployment and testing processes to support CI/CD [Epic 1](Epics/DevOpsEpics.md)
