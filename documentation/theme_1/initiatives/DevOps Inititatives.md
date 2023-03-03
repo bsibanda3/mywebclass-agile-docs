@@ -1,34 +1,28 @@
-"Create an automated process for deployment and testing processes to support CI/CD"
+"Create processing process for Product Development to ensure customer satisfaction"
 
-Description: Creating an automated process to support CI/CD will enable the website to be upgraded seamlessly while also facilitating collaboration which will enhance the customer experience.
+Description: Create a roadmap to ensure that all requirements for the project are met and customers are satisfied with MyWebClass
 
-Goals: Automated testing of the website, usage of collaboration tools, and consistent and automated changes to website.
+Goals: Robust website that brings high customer satisfaction
 
-Scope: The changes will improve the entire website back-end by making all changes more fluid. This will also affect the teams that work on the project as they will need to follow agile principals to support CI/CD.
+Scope: This roadmap will plan out the entire process of the website building.
 
-Outcomes: Developers will learn and use CI/CD to support the website.
-The website will receive more updates to its content because of the use of CI/CD
-Increased user satisfaction due to constant content updates.
+Outcomes: All team members will have an understanding of the website that will be created.
+All team members will understand the knowledge and technical requirements for the project
+A budget will be created as a cost to create the website will be created
 
-Deliverables: A website with a backend that utilizes CI/CD
-Consistent upgrades to website utilizing CI/CD
-A team of developers adopting and supporting agile and CI/CD
+Deliverables: A complete roadmap showing the different components of the website.
 
-Milestones: Utilization of automation scripts, utilization of deployment pipelines, Utilization of CI/CD Server
+Milestones: Approval from compliance department, Funding for the project
 
-Constraints: Budget constraints for CI/CD server and other resources to support CI/CD
-Education in developers of agile and CI/CD
-Content to add to website consistently
+Constraints: Potential lack of funding for project, timeframe to create project
 
-Assumptions: Available CI/CD server, avaliable education of agile and CI/CD processes for developers
+Assumptions: Developers are ready and educated on technologies needed to create product
 
-Risks: Incorrect implementation of CI/CD
-Increased costs to train developers
+Risks: Plan will be rejected, Inadequate resources will be allocated to plan.
 
-Dependencies: Budget to maintain CI/CD and web server.
-Budget to educate developers on CI/CD.
+Dependencies: Funding for project, personnel for project, available web and CI/CD server.
 
-Team: Front end developer
+Team: Front End Software developers
 
 
-Testing: Integration testing, load testing using Jenkins
+Testing: Compliance department scrutinizing roadmap, developer feedback on aspects of roadmap
