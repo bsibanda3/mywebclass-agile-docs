@@ -3,7 +3,7 @@
 
 
 # List initiatives related to this theme
-1. Preventing Business ramifications from MyWebClass [Initiative 1](https://github.com/bsibanda3/mywebclass-agile-docs/blob/286627c2a515b6751ddb3ccb0661620590fe266d/documentation/theme_1/Legal%20Theme.md)
+1. Preventing Business ramifications from MyWebClass [Initiative 1](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Legal%20Initiative.md)
 2. Develop website with accurate and quality content [Initiative 2]([documentation/theme_1/initiatives/WebsiteCreateInitatives.md](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/WebsiteCreateInitatives.md))
 3. Create processing process for Product Development to ensure customer satisfaction [Initiative 3](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/DevOps%20Inititatives.md)
 
