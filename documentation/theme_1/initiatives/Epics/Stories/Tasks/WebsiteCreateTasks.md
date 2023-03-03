@@ -29,7 +29,7 @@ Assigned To: Front End Developer
 
 Priority: High
 
-Status: Not Started
+Status: In Progress
 
 Notes: Developer to keep list of keywords used
 
