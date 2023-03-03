@@ -18,4 +18,4 @@ Business Value: Ensuring website's continuity will ensure the website is able to
 Priority: High
 
 # List stories related to this Epic
-1. As a user I want to ensure I can always access MyWebClass. [Story 3](documentation/theme_1/initiatives/Epics/Stories/WebsiteCreateStories3.md)
+1. As a user I want to ensure I can always access MyWebClass. [Story 3](Stories/WebsiteCreateStories3.md)
