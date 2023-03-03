@@ -8,4 +8,4 @@ Plan has been practiced to ensure functionality.
 Testing: Selenium Web Driver and Powershell scripts to check connectivity to backups
 
 # List tasks related to this story
-1. Check relevant keywords [Story 4](documentation/theme_1/initiatives/Epics/Stories/Tasks/WebsiteCreateTasks4.md)
+4. Check relevant keywords [Story 4](Tasks/WebsiteCreateTasks4.md)

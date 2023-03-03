@@ -9,6 +9,6 @@ Feedback is accepted from users and easily available to users
 Testing: Verify that sources of information come from the credentialed and esteemed places.
 
 # List task related to this story
-1. As a front end developer I need to make sure all my information is accurate and not misleading. [Story 1](documentation/theme_1/initiatives/Epics/Stories/Tasks/LegalTasks1.md)
+1. As a front end developer I need to make sure all my information is accurate and not misleading. [Story 1](Tasks/LegalTasks1.md)
 
 
