@@ -7,4 +7,4 @@ Each developer has an account on the SCM tool
 Testing: Testing via pytest to test automation
 
 # List task related to this story
-1. Utilize SCM Tool
+1. Utilize SCM Tool [Task 2] Tasks/DevOpsTasks2.md
