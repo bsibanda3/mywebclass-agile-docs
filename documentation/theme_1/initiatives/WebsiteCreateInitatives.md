@@ -43,6 +43,7 @@ Back end developer
 DevOps developer
 
 # List epics related to this theme
-1. Develop SEO to help users find website [Epic 1](documentation/theme_1/initiatives/Epics/WebsiteCreateEpics1.md)
+1. Develop SEO to help users find website [Epic 1](Epics/WebsiteCreateEpics1.md)
+2. 
 
 Testing: Playwright for end-to-end testing, Pytest to check each unit on website
