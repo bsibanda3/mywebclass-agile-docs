@@ -17,8 +17,11 @@ Business Values: The changes will improve the entire website back-end by making 
 
 Priority: High
 
-# List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+# List stories related to this Epic
+1. As a front end developer I need to make sure the CI/CD pipeline is reliable. [Story 1](documentation/theme_1/initiatives/Epics/Stories/DevOpsStories1.md)
+2. As a front end developer I need to utilize Source Control Management Tool. [Story 2](documentation/theme_1/initiatives/Epics/Stories/DevOpsStories2.md)
+3. As a front end developer I need an environment to deploy the code. [Story 3](documentation/theme_1/initiatives/Epics/Stories/DevOpsStories3.md)
+
 
 
 Testing: Integration testing, load testing using Jenkins

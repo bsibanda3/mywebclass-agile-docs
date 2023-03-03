@@ -7,9 +7,5 @@ The user has entered a keyword into the search bar to find the website
 
 Testing: Automated test with Playwright to check SEO optimization
 
-"As a front end developer I want to ensure MyWebClass appears in search engines"
-
-Acceptance Criteria: Google Search Console account is created
-URL inspection tool has indexed and crawled MyWebClass
-
-Testing: Automated test with Playwright to check if website appears on google
+# List tasks related to this story
+1. Check relevant keywords [Story 2](documentation/theme_1/initiatives/Epics/Stories/Tasks/WebsiteCreateTasks2.md)
