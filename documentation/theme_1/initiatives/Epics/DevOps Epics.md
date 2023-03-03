@@ -1,4 +1,4 @@
-Title: "Create an automated process for deployment and testing processes to support CI/CD"
+Title: "Create an automated process for deployment and testing processes to support CI/CD."
 
 Description: Creating an automated process to support CI/CD will enable the website to be upgraded seamlessly while also facilitating collaboration which will enhance the customer experience.
 
