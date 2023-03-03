@@ -29,7 +29,7 @@ Assigned To: Front End Developer
 
 Priority: High
 
-Status: In Progress
+Status: Not Started
 
 Notes: Developer to keep list of keywords used
 
@@ -48,7 +48,7 @@ Assigned To: Front End Developer
 
 Priority: High
 
-Status: Completed
+Status: Not Started
 
 Notes: Developer should test with different keywords and compare analytics results to find the highest user accessibility level
 

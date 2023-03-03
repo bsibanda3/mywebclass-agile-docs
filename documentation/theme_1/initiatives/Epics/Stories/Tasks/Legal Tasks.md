@@ -24,7 +24,7 @@ Description: Ensure user data is secure by secure hosting and encrypting the dat
 
 Priority: High
 
-Status: In Progress
+Status: Not Started
 
 Notes: Developer should work with information security teams to ensure data is protected.
 
@@ -39,7 +39,7 @@ Description: Terms of use agreement will be created to ensure expectations of us
 
 Priority: High
 
-Status: In Progress
+Status: Not Started
 
 Notes: Developers should work with compliance to ensure proper agreement content
 
@@ -56,7 +56,7 @@ Description: Content must be inspected or any copyright infringements to protect
 
 Priority: High
 
-Status: In Progress
+Status: Not Started
 
 Notes: Compliance should work with developers to verify content is original.
 
