@@ -9,4 +9,6 @@ Users are required to agree to the terms of use agreement prior to using MyWebCl
 Testing: Utilize volunteer users to ensure they can locate terms of use agreement and understand it.
 
 # List task related to this story
-1. As a front end developer I need to make sure all my information is accurate and not misleading. [Story 1](documentation/theme_1/initiatives/Epics/Stories/Tasks/LegalTasks3.md)
+
+1. As a front end developer I need to make sure all my information is accurate and not misleading. [Task 3](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Stories/Tasks/LegalTask3.md)
+

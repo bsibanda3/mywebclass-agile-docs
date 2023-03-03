@@ -24,7 +24,7 @@ List stories related to this theme
 Testing: GDPR Scanner, Lighthouse, w3c Validation
 
 # List stories related to this Epic
-1. As a front end developer I need to make sure all my information is accurate and not misleading. [Story 1](documentation/theme_1/initiatives/Epics/Stories/Legal Story.md)
-2. As a front end developer I need to make sure that user data is protected. [Story 2](documentation/theme_1/initiatives/Epics/Stories/LegalStory2.md)
-3. As a front end developer I need to make sure there is a clear terms of use agreement. [Story 3](documentation/theme_1/initiatives/Epics/Stories/LegalStory 3.md)
-4. As a front end developer I need to ensure I use original content that has not been copyrighted. [Story 4](documentation/theme_1/initiatives/Epics/Stories/LegalStory4.md)
+1. As a front end developer I need to make sure all my information is accurate and not misleading. [Story 1](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Stories/Legal%20Story1.md)
+2. As a front end developer I need to make sure that user data is protected. [Story 2](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Stories/Legal%20Story2.md)
+3. As a front end developer I need to make sure there is a clear terms of use agreement. [Story 3](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Stories/Legal%20Story%203.md)
+4. As a front end developer I need to ensure I use original content that has not been copyrighted. [Story 4](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Stories/Legal%20Story4.md)

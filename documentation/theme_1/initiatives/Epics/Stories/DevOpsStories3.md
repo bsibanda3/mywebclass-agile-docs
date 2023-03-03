@@ -6,4 +6,4 @@ Multiple branches are utilized for CI/CD processes of the website
 Testing: Pytest to check environment for working code.
 
 # List task related to this story
-1. Create environment to deploy code [Story 3](documentation/theme_1/initiatives/Epics/Stories/Tasks/DevOpsTasks3.md)
+1. Create environment to deploy code [Task 3](Tasks/DevOpsTasks3.md)
