@@ -12,7 +12,7 @@ Risks: Website will not be located in an optimal position on search engines
 
 Estimated Effort: 4 hours
 
-Business Value: Ensuring website's position on search engines will increase users activity, generating more revenue and customer satisfaction
+Business Value: Ensuring website's position, on search engines will increase users activity, generating more revenue and customer satisfaction
 
 Priority: High
 
