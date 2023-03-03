@@ -1,18 +1,15 @@
 # Theme 1.0: Project Setup
 ## Overview
-Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
-## Initiative(s)
+"As a software development company, we want to create a website that educates teachers of new technology to improve instruction. By creating this website, we can keep teachers informed and current with technologies that are used within industry. This will enable us to raise the level of education the educator can provide, and meet our customers needs. By following continuous development principals, we can quickly and effectively create an educational website, setting us up for teachers with the most current knowledge of software development technologies."
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
 
-## Test plan
-How will this be tested?
+# List initiatives related to this theme
+1. Preventing Business ramifications from MyWebClass [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
+
+## Test Plan
+Testing: Request feedback from users to ensure the website is educational, ensure all educational requirements for teachers is met via surveys and other data collecting methods.
+
+
+
+
