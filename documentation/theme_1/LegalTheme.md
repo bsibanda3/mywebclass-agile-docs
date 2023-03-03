@@ -5,6 +5,6 @@
 # List initiatives related to this theme
 1. Preventing Business ramifications from MyWebClass [Initiative](documentation/theme_1/initiatives/Legal Initiative.md)
 2. Develop website with accurate and quality content [Initiative](documentation/theme_1/initiatives/WebsiteCreateInitatives.md)
-3. Create processing process for Product Development to ensure customer satisfaction [Initiative](documentation/theme_1/initiatives/DevOps Inititatives.md)
+3. Create processing process for Product Development to ensure customer satisfaction [Initiative](documentation/theme_1/initiatives/DevOpsInititatives.md)
 
 Testing: Request feedback from users to ensure the website is educational, ensure all educational requirements for teachers is met via surveys and other data collecting methods.
