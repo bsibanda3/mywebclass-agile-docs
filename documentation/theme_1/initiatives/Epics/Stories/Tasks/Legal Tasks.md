@@ -16,6 +16,7 @@ Notes: Information will be reviewed by compliance before it is posted to product
 
 Testing: Compare research to it's source to ensure the information is accurate.
 
+
 Task: Ensure User Data is Secure
 
 User Story: As a front end developer I need to make sure that user data is protected.

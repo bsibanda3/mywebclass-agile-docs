@@ -10,7 +10,7 @@ Assigned To: Front End Developer
 
 Priority: High
 
-Status: In Progress
+Status: Not Started
 
 Notes: Developer should ensure that website structure is well documented
 
@@ -29,7 +29,7 @@ Assigned To: Front End Developer
 
 Priority: High
 
-Status: In Progress
+Status: Not started
 
 Notes: Developer to keep list of keywords used
 
