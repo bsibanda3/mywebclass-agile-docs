@@ -43,6 +43,6 @@ Back end developer
 DevOps developer
 
 # List epics related to this theme
-1. Legal Requirements for MyWebClass [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. Develop SEO to help users find website [Epic 1](documentation/theme_1/initiatives/Epics/WebsiteCreateEpics1.md)
 
 Testing: Playwright for end-to-end testing, Pytest to check each unit on website
