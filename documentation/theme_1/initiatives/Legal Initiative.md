@@ -30,6 +30,6 @@ Consistent legal review of website's compliance
 Team: Brandon Sibanda
 
 # List epics related to this theme
-1. Legal Requirements for MyWebClass [Epic 1]([documentation/templates/theme/initiatives/epics/epic_template.md](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Legal%20Epic.md))
+1. Legal Requirements for MyWebClass [Epic 1](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Legal%20Epic.md)
 
 Testing: GDPR Scanner, Lighthouse, w3c Validation, ensuring profit/loss margins are within acceptable parameters
