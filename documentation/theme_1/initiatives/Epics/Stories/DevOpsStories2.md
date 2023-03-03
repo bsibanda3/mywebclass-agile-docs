@@ -7,4 +7,4 @@ Each developer has an account on the SCM tool
 Testing: Testing via pytest to test automation
 
 # List task related to this story
-1. Utilize SCM Tool [Story 2](https://github.com/bsibanda3/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Stories/Tasks/DevOps%20Tasks2.md)
+1. Utilize SCM Tool
