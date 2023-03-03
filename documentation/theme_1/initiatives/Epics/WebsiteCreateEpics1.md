@@ -8,7 +8,7 @@ User Stories: As a user of MyWebClass, I want to find the website easily in Goog
 
 Dependencies: Keyword research, website availability to public, website availability on search engines 
 
-Risks: Website will not be located in an optimal position on search engines
+Risks: Website will not be located in an optimal position on search engines.
 
 Estimated Effort: 4 hours
 
