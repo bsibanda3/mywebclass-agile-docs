@@ -16,7 +16,7 @@ Business Value: Ensuring website's position on search engines will increase user
 
 Priority: High
 
-# List stories related to this theme
+# List stories related to this Epic
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
 
 Testing: Check website ranking, Check website indexing, Check website analytics
