@@ -1,4 +1,4 @@
-"As a front end developer I want to ensure MyWebClass appears in search engines"
+"As a front end developer I want to ensure MyWebClass appears in search engines."
 
 Acceptance Criteria: Google Search Console account is created
 URL inspection tool has indexed and crawled MyWebClass

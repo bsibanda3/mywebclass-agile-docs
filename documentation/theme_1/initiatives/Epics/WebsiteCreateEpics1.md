@@ -4,7 +4,7 @@ Description: SEO will assist users with locating the website.
 
 Goals: Users will be able to easily locate website from search engine.
 
-User Stories:
+User Stories: As a user of MyWebClass, I want to find the website easily in Google's search engine.
 
 Dependencies: Keyword research, website availability to public, website availability on search engines 
 
