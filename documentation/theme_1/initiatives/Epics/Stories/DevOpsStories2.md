@@ -1,4 +1,4 @@
-"As a front end developer I need to utilize Source Control Management Tool"
+"As a front end developer I need to utilize Source Control Management Tool."
 
 Acceptance Criteria: Funding has been allocated for an SCM tool
 Developers have been trained on its usage
